@@ -1,0 +1,218 @@
+{
+    "visa_types": [
+        {
+            "name": "EU Blue Card",
+            "description": "A special residence title for foreign academics and professionals with comparable qualifications.",
+            "requirements": {
+                "qualification": {
+                    "type": "Academic or tertiary-level qualification",
+                    "details": "A German academic qualification or a foreign qualification equivalent to ISCED Level 6.",
+                    "special_cases": "If no formal degree, 3+ years of tertiary-level training required."
+                },
+                "job_offer": "Specific job offer in Germany with a contract of at least six months.",
+                "salary": {
+                    "standard": "€48,300 (2025)",
+                    "bottleneck_professions": "€43,759.80 (2025)",
+                    "exceptions": "IT professionals with 3+ years of experience in the past seven years are eligible."
+                },
+                "additional": "Regulated professions require a license to practice. Federal Employment Agency approval needed for bottleneck professions."
+            },
+            "bottleneck_professions": [
+                "STEM professionals",
+                "Medical doctors",
+                "Teachers",
+                "Pharmacists",
+                "Veterinarians",
+                "Dentists",
+                "Nurses and midwives",
+                "ICT service managers",
+                "Construction managers"
+            ],
+            "benefits": {
+                "validity": "Up to four years",
+                "settlement_permit": "Available after 21-27 months with German language proficiency (A1 or B1).",
+                "family_reunification": "Allowed with no additional integration requirements.",
+                "job_change": "Allowed after first year with notification to the foreigners' authority."
+            },
+            "source_urls": [
+                "https://www.make-it-in-germany.com/en/visa-residence/types/eu-blue-card",
+                "https://www.gesetze-im-internet.de/aufenthg_2004/__18g.html"
+            ],
+            "processing_time": "Approximately 6-12 weeks",
+            "required_documents": [
+                "Valid passport",
+                "Degree certificate",
+                "Employment contract",
+                "Salary proof",
+                "Health insurance"
+            ],
+            "FAQs": [
+                {
+                    "question": "Can I apply for an EU Blue Card without a degree?",
+                    "answer": "Yes, if you have at least three years of relevant experience in an eligible field."
+                },
+                {
+                    "question": "Can my spouse work in Germany with me?",
+                    "answer": "Yes, spouses of EU Blue Card holders can work without restrictions."
+                }
+            ]
+        },
+        {
+            "name": "Work Visa for Qualified Professionals",
+            "description": "A visa for skilled professionals with recognized foreign qualifications to work in Germany.",
+            "requirements": {
+                "qualification": "Recognized vocational or academic qualification.",
+                "job_offer": "Specific job offer in a relevant profession.",
+                "salary": "€53,130 (2025) if applicant is over 45 years old.",
+                "employment_approval": "Federal Employment Agency must approve employment conditions."
+            },
+            "validity": "Up to four years",
+            "processing_time": "6-12 weeks",
+            "required_documents": [
+                "Valid passport",
+                "Recognized qualification",
+                "Employment contract",
+                "Health insurance proof"
+            ],
+            "FAQs": [
+                {
+                    "question": "Do I need a German language certificate for a work visa?",
+                    "answer": "Only if your profession requires direct interaction in German (e.g., healthcare, teaching)."
+                },
+                {
+                    "question": "Can I switch to an EU Blue Card later?",
+                    "answer": "Yes, if you meet the salary and qualification requirements for the EU Blue Card."
+                }
+            ]
+        },
+        {
+            "name": "Job Search Opportunity Card",
+            "description": "A visa allowing professionals to stay in Germany for up to one year to find a job.",
+            "requirements": {
+                "qualification": "Recognized vocational or academic qualification OR 6+ points in Germany’s points system.",
+                "financial_resources": "Proof of €1,091/month (2025) via a blocked account or sponsorship.",
+                "language_skills": "Minimum German (A1) or English (B2).",
+                "age_limit": "Preferably below 35 years old."
+            },
+            "validity": "One year",
+            "processing_time": "6-8 weeks",
+            "required_documents": [
+                "Valid passport",
+                "Educational qualifications",
+                "Proof of funds",
+                "Health insurance"
+            ],
+            "FAQs": [
+                {
+                    "question": "Can I work while on the job search visa?",
+                    "answer": "Yes, up to 20 hours per week."
+                },
+                {
+                    "question": "What happens if I don’t find a job in one year?",
+                    "answer": "You must leave Germany or switch to another visa category if eligible."
+                }
+            ]
+        },
+        {
+            "name": "Startup Visa",
+            "description": "A visa for entrepreneurs planning to establish a business in Germany.",
+            "requirements": {
+                "business_plan": "Must be innovative, viable, and beneficial to the German economy.",
+                "investment_funds": "Minimum €50,000 recommended.",
+                "language_skills": "Not mandatory but beneficial.",
+                "financial_resources": "Must prove financial stability."
+            },
+            "validity": "Initially three years, extendable",
+            "processing_time": "8-12 weeks",
+            "required_documents": [
+                "Business plan",
+                "Proof of financial resources",
+                "Company registration documents"
+            ],
+            "FAQs": [
+                {
+                    "question": "Do I need a local partner?",
+                    "answer": "No, but having a German business partner can help."
+                },
+                {
+                    "question": "Can my family join me?",
+                    "answer": "Yes, with family reunification policies."
+                }
+            ]
+        },
+        {
+            "name": "Family Reunification Visa",
+            "description": "A visa allowing family members to join residents in Germany.",
+            "requirements": {
+                "sponsor": "Must be a legal resident in Germany.",
+                "financial_stability": "Proof of sufficient income.",
+                "language": "Spouses need A1 German skills (exceptions apply)."
+            },
+            "validity": "Permanent residency possible after 3-5 years",
+            "processing_time": "8-14 weeks",
+            "required_documents": [
+                "Marriage certificate (if spouse)",
+                "Birth certificate (if child)",
+                "Proof of residence of sponsor"
+            ],
+            "FAQs": [
+                {
+                    "question": "Can my spouse work immediately?",
+                    "answer": "Yes, if they meet employment conditions."
+                },
+                {
+                    "question": "Does my child need a separate visa?",
+                    "answer": "Yes, but the process is simplified for minors."
+                }
+            ]
+        }
+    ],
+    "additional_info": {
+        "general_requirements": [
+            "Valid passport (at least six months validity)",
+            "Health insurance coverage",
+            "Financial proof (blocked account, employer sponsorship, etc.)",
+            "Accommodation proof (rental contract, host declaration)"
+        ],
+        "application_process": [
+            "Step 1: Determine the appropriate visa type.",
+            "Step 2: Gather required documents.",
+            "Step 3: Schedule an appointment at the German consulate.",
+            "Step 4: Attend visa interview and submit biometrics.",
+            "Step 5: Wait for visa decision (6-12 weeks).",
+            "Step 6: Travel to Germany and register with local authorities."
+        ]
+    },
+    "personal_experiences": [
+        {
+            "title": "Navigating Bureaucracy",
+            "experience": "Many immigrants find the German bureaucratic system challenging. Tasks such as obtaining residence permits can be time-consuming and require persistence. Early application and thorough documentation are crucial.",
+            "source": "https://www.reddit.com/r/germany/comments/189x3em/your_experience_with_the_immigration/?utm_source=chatgpt.com"
+        },
+        {
+            "title": "Job Market Realities",
+            "experience": "Despite reports of labor shortages, some immigrants face difficulties securing employment due to language proficiency requirements and qualification recognition.",
+            "source": "https://www.reddit.com/r/germany/comments/1h0dhlo/german_citizens_and_immigrants_in_germany_what/?utm_source=chatgpt.com"
+        },
+        {
+            "title": "Cultural Adaptation",
+            "experience": "Adjusting to German social norms can be difficult. Some immigrants feel isolated, but learning the language and engaging in local activities helps in integration.",
+            "source": "https://www.reddit.com/r/germany/comments/17vri9i/living_in_germany_a_soulcrushing_experience_or/?utm_source=chatgpt.com"
+        },
+        {
+            "title": "Quality of Life",
+            "experience": "Germany offers benefits like universal healthcare and safety, but challenges such as housing shortages and bureaucracy can impact the overall experience.",
+            "source": "https://www.reddit.com/r/germany/comments/1b6taaz/my_fellow_immigrants_tell_us_the_pros_and_cons_of/?utm_source=chatgpt.com"
+        },
+        {
+            "title": "Public Transportation",
+            "experience": "While Germany’s public transportation system is generally efficient, some immigrants find it lacking in comparison to their home countries, especially due to occasional delays and strikes.",
+            "source": "https://www.reddit.com/r/germany/comments/zixv6s/experience_moving_from_the_us_to_germany/?utm_source=chatgpt.com"
+        },
+        {
+            "title": "Social Integration",
+            "experience": "Building friendships with locals can be tough. Joining clubs, attending community events, and learning German are effective ways to integrate.",
+            "source": "https://www.reddit.com/r/germany/comments/zixv6s/experience_moving_from_the_us_to_germany/?utm_source=chatgpt.com"
+        }
+    ]
+}
