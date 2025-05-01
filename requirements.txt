@@ -1,0 +1,6 @@
+phidata
+python-dotenv
+fastapi
+groq
+fastapi
+duckduckgo-search
