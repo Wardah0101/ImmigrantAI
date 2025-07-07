@@ -4,3 +4,6 @@ fastapi
 groq
 fastapi
 duckduckgo-search
+sqlalchemy
+psycopg[binary]
+pgvector
