@@ -1,3 +1,4 @@
+#Requirements for ImmigrantAI are down below:
 phidata
 python-dotenv
 fastapi
