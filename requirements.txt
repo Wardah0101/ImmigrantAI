@@ -8,3 +8,4 @@ duckduckgo-search
 sqlalchemy
 psycopg[binary]
 pgvector
+streamlit
